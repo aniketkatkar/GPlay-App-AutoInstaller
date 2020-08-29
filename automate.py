@@ -64,7 +64,7 @@ time.sleep(3)
 #start the application
 os.system('adb shell monkey -p '+ package_name +' -c android.intent.category.LAUNCHER 1')
 #run for specified time ( in seconds )
-time.sleep(180)
+time.sleep(30)
 #stop the application
 os.system('adb shell am force-stop '+package_name)
 

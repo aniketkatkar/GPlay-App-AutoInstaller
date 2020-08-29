@@ -4,6 +4,8 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+Video preview - https://www.youtube.com/watch?v=jiX5t8x1XvU&t=19s
+
 GPlay-App-AutoInstaller is a python test suite for auto installing Android applications directly from Playstore to your device in a single GO.
 
   - Search any app on Google Playstore. eg. - Instagram
